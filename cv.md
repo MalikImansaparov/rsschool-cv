@@ -36,29 +36,29 @@ _Currently, I am a final-year undergraduate student in the specialty of "Softwar
 
 ## Education
 
-Software Engineer  
+####Software Engineer  
 Bachelor degree(2017-2021)  
-Issyk-Kul State University
+#####Issyk-Kul State University
 
 
-Web Developer  
+#####Web Developer  
 Summer school(2019)  
-Almaty State University
+#####Almaty State University
 
 
 ## Experience
 
-Frontend course mentor  
+####Frontend course mentor  
 November 2019 — June 2020 (8 months)  
-Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH  
+#####Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH  
 • _Conducted trainings on HTML&CSS, JavaScript  
 • Code review and direct trainees toward possible solutions  
 • Assisting the students in completing required assignments  
 • Technical support for computer students_
 
-Intern system administrator  
+####Intern system administrator  
 September 2018 — May 2019 (9 months)  
-Computer System Maintenance Department of IGU  
+#####Computer System Maintenance Department of IGU  
 • _Installed and configured software and hardware  
 • Cooperation of workers to detect computer malfunctions  
 • Provided desktop support and troubleshooting  
