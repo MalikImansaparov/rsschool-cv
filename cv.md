@@ -1,9 +1,9 @@
 
 IMANSAPAROV MALIK
- -----------------
+ ---------------------------
  Junior Frontend Developer      
  
- <img align="left" alt="img" src="https://github.com/MalikImansaparov/rsschool-cv/blob/gh-pages/avatar.jpg"
+ <img align="left" alt="img" src="https://github.com/MalikImansaparov/rsschool-cv/gh-pages/avatar.jpg"
 width="130" height="145"/>
 
 
