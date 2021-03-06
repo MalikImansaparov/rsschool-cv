@@ -1,11 +1,7 @@
 
-IMANSAPAROV MALIK
- ---------------------------
- Junior Frontend Developer      
- 
- <img align="left" alt="img" src="https://github.com/MalikImansaparov/rsschool-cv/gh-pages/avatar.jpg"
-width="130" height="145"/>
+# IMANSAPAROV MALIK
 
+ Junior Frontend Developer      
 
    22 years (27.01.1999)  
    Location: Almaty(Kazakhstan)  
