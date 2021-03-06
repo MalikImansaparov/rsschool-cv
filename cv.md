@@ -27,7 +27,6 @@ _Currently, I am a final-year undergraduate student in the specialty of "Softwar
 ![SASS](https://img.shields.io/badge/-SASS/SCSS-333333?style=flat&logo=SASS)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=Jest&logoColor=C21325)&nbsp;
 ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack)&nbsp;
 
 ## Education
