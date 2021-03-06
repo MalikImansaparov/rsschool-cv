@@ -1,5 +1,5 @@
 
-# IMANSAPAROV MALIK
+# Imansaparov Malik
 
  Junior Frontend Developer      
 
@@ -10,7 +10,7 @@
    Github: [github.com/MalikImansaparov](github.com/MalikImansaparov)   
    LinkedIn: [linkedin.com/malik-imansaparov](https://www.linkedin.com/in/malik-imansaparov-591a88186/)
    
-   ## Summary
+## Summary
           
 _Currently, I am a final-year undergraduate student in the specialty of "Software Engineer" at Issyk-Kul State University. My passion is building state-of-the-art, appealing websites. I have been studying web development since October 2019. Specializing in React I plan to develop skills of Angular and Vue in the near future. Build appealing websites through CSS frameworks such as SCSS, Bootstrap4 and Styled Components. I am able to read and understand documents and articles in English, conduct a dialogue with an interlocutor. During my studies, I have worked on several projects that you can on my [github account](github.com/MalikImansaparov)_
 
