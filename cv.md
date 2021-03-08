@@ -1,7 +1,10 @@
 
 # Imansaparov Malik
 
- Junior Frontend Developer      
+ Junior Frontend Developer  
+ 
+ <img align="left" alt="img" src="https://avatars.githubusercontent.com/u/50579392?s=460&u=4a506bb8892b6e6eb1b8cd5de6e018b738c41336&v=4"
+width="130" height="145"/>
 
    22 years (27.01.1999)  
    Location: Almaty(Kazakhstan)  
