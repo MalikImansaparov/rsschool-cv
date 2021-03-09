@@ -1,4 +1,4 @@
-## rsschool-cv
+# rsschool-cv
 
 ### Markdown & Git: https://malikimansaparov.github.io/rsschool-cv/cv
 
