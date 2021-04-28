@@ -7,7 +7,7 @@
 width="130" height="145"/>
 
    22 years (27.01.1999)  
-   Location: Almaty(Kazakhstan)  
+   Location: Bishkek(Kyrgyzstan)  
    Telephone: +996 773 589 520  
    Email: ImansaparovDev@gmail.com                                                                                                       
    Github: [github.com/MalikImansaparov](github.com/MalikImansaparov)   
